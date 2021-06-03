@@ -12,7 +12,7 @@
 
 Nesta aula foi criado uma estrutura base de uma aplicação React utilizando ferramentas como Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh e onde foi utilizado também conceitos importantes do React como componentes, propriedades, estados e hooks além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
 
-O projeto em sim, é uma aplicação para listar repositórios do meu próprio GitHub (https://api.github.com/users/BManduca/repos)
+O projeto em si, é uma aplicação para listar repositórios do meu próprio GitHub (https://api.github.com/users/BManduca/repos)
 
 ## Executando a aplicação 🚀
 
