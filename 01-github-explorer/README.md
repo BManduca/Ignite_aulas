@@ -2,7 +2,7 @@
 
 <h1 align="center">
   Ignite - Trilha ReactJS
-</h2>
+</h1>
 
 <p align="center">
   Chapter 01: Fundamentos do ReactJS
